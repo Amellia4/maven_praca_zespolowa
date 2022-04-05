@@ -1,6 +1,6 @@
 package pl.sda.arppl;
 
-import java.util.Scanner;
+import java.util.Scanner;//dopisane specjalnie by miec zmiany
 
 public class KlasaArtur2 {
     public static void main(String[] args) {
