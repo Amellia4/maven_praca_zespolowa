@@ -20,6 +20,6 @@ public class KlasaArtur {
         double suma = pierwszaLiczba+drugaLiczba;
         double roznica = pierwszaLiczba-drugaLiczba   ;
         System.out.println("Hej" +imie+" "+drugieImie+"Suma tych liczb wynosi: " +suma+", a rożnica "+roznica);
-//edededed
+//ededededfdsfgfd
     }
 }
