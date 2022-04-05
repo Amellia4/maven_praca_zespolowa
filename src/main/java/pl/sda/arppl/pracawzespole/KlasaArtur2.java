@@ -2,7 +2,7 @@ package pl.sda.arppl;
 
 import java.util.Scanner;
 
-public class KlasaArtur {
+public class KlasaArtur2 {
     public static void main(String[] args) {
         System.out.println("Jak masz na Imię? ");
         Scanner scanner = new Scanner(System.in);
